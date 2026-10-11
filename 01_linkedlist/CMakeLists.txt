@@ -1,0 +1,2 @@
+add_executable(singly_list 01_singly_list.c)
+add_executable(singly_list_dummy 02_singly_list_dummy.c)
